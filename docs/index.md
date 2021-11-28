@@ -4,6 +4,7 @@ layout: default
 # Welcome to my Homepage
 I am an undergraduate of Seoul National University majoring in Mathematical Sciences from 2016.
 My double-major is Statistics.
+Also, I served as the student president of the department. I work as a part-time instructor at P&K Math Academy 
 
 ## Education
 **Seoul National University**
@@ -78,48 +79,52 @@ So, I tried to build an academic background in statistics.
 *Note: For the collection of **homeworks**, later chapter comes first, so you may find **advanced contents at the upper part**.
 
 ### 2021-2 (Fall 2021)
-#### "Data Mining and Lab." (2021-2)
-**Report:** We developed models predicting the effect of COVID-19 vaccine on potential occurrence of life-threatening illnesses. We used logistic regression, linear discriminant analysis, and KNN methods to obtain the models. The research is still in progress, so only the interim report can be offered.
+#### "Data Mining and Lab." (2021-2) by Prof. Taesung Park
+**Report:** We developed models **predicting the side-effect of COVID-19 vaccine** on potential occurrence of life-threatening illnesses. We used logistic regression, linear discriminant analysis, and KNN methods to obtain the models. The research is still in progress, so only the interim report can be offered.
 
 [Data Mining Interim report(Eng)](./DataMining/interim_report.pdf)
 
 The homeworks include 
-*   comparing accuracies of classifiers made by ridge regression, LASSO, PCR, PLS models;
-*   fitting logistic regression and obtaining the variance of bootstrap distribution;
-*   generating data and applying linear regression.
+*   comparing accuracies of classifiers made by ridge regression, LASSO, PCR, PLS models with **cross-validation**;
+*   fitting logistic regression and comparing the sample variance of **bootstrap distribution** with population variance;
+*   generating data and applying **linear regression**.
 
 [Data Mining Homeworks(Eng)](./DataMining/data_mining.pdf)
 
 
 ### 2021-1 (Spring 2021)
-#### "Applied Statistics" (2021-1)
+#### "Applied Statistics" (2021-1, Prof. Sungkyu Jung)
 Note that I include hand-written homeworks, which is tidy and written in English. The homeworks include
-*   properties of Generalized Linear Models
-*   applying EM algorithm to the Poisson mixture model and to the missing covariates in simple linear regression model
-*   computing influence function and proving the robustness of a statistic
-*   finding the best predictor in a mixed effect model
-*   obtaining a multidimensional confidence region in multiple linear regression
-*   comparing models and select parameters using Adjusted R-squared, Mallow's Cp, and LOOCV.
+*   proving properties of Generalized Linear Models **(GLM)**;
+*   applying **EM algorithm** to the Poisson mixture model and to the missing covariates in simple linear regression model;
+*   computing influence function and proving the **robustness** of a statistic;
+*   finding the best predictor in a **mixed effect** model;
+*   obtaining a multidimensional **confidence region** in multiple linear regression;
+*   comparing models and **select parameters** using Adjusted R-squared, Mallow's Cp, and LOOCV.
 
 [Applied Statistics Homeworks(Eng)](./Apps.pdf)
 
-#### "Nonparametric Statistics and Lab." (2021-1)
+#### "Nonparametric Statistics and Lab." (2021-1, Prof. Sungkyu Jung)
 The homeworks include
-*   deriving several confidence intervals of linear regression coefficients using bootstrap
-*   applying several bootstrap methods includng jackknife resampling to obtain the confidence interval for a parameter
-*   obtaining significant variables by applying permutation tests 
+*   deriving several confidence intervals of **linear regression** coefficients using bootstrap;
+*   applying several **bootstrap methods** includng jackknife resampling to obtain the confidence interval for a parameter;
+*   obtaining significant variables by applying **permutation tests**.
 
 [Nonparametric Statistics Homeworks(Eng)](./Nonpar.pdf)
 
-#### "Real Analysis" (2021-1)
+#### "Real Analysis" (2021-1, Prof. Hun Hee Lee)
 The file contains hand-written homeworks submitted for the "Real analysis" course. Especially, **"HW5"** starts from **page 15** was selected as the "model answer".
 The homeworks include
+*   proving properties of Hahn decomposition and **Jordan decomposition** of measures;
+*   proving **separability of Lp spaces** and non-separablity of L_infty space
+*   showing examples of measure construction by **Caratheodory extension theorem**
+.
 
 [Real Analysis Homeworks(Eng)](./real_analysis.pdf)
 
 ### 2017-2 (Fall 2017)
-#### "Statistical Computing and Lab." (2017-2)
-**Report:** I explained rejection sampling methods and developed a function that performs three rejection sampling methods using the derivative of log-density function.
+#### "Statistical Computing and Lab." (2017-2, Prof. Chae Young Lim)
+**Report:** I explained rejection sampling methods and **developed a function** that performs **three rejection sampling methods** using the derivative of log-density function.
 
 [Statistical Computing Report(Kor)](./jt.pdf)
 
