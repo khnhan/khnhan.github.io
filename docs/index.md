@@ -5,7 +5,7 @@ layout: default
 * * *
 I am an undergraduate of Seoul National University majoring in Mathematical Sciences from 2016.
 My double-major is **Statistics**, the subject I want to study as a researcher.
-My Korean name is 한기현 (This might help you find my name on the awards list and the homework).
+My Korean name is **한기현** (This might help you find my name on the awards list and the homework).
 
 I work as a part-time math instructor at P&K Math Academy, and I am the former student president of the Department of Mathematical Sciences.
 
