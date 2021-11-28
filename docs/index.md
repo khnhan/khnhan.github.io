@@ -145,7 +145,6 @@ The collection of homework includes
 
 ## Extracurricular Activities
 I worked as the **student president** of the Department of Mathematical Sciences, representing about 200 undergraduates. Also, I participated in many **volunteering** activities.
-For more detailed explanations and **pictures** (including Mr. FAN), please click here.
-[Click](./gb.html)
+For more detailed explanations and **pictures** (including Mr. FAN), please click [here](./gb.html).
 
 ![volunteer](volunteer.jpg)
