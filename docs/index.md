@@ -15,7 +15,7 @@ The homepage is consisted of
 *   Selected Assignments and Reports
 *   Extracurricular Activities
 
-\\
+\
 
 ## Education
 * * *
@@ -63,7 +63,7 @@ During the military service, I found out that I have to take other courses requi
 *   Learned how to write professional emails in English
 *   Practiced pronunciation and intonation in speaking English
 
-\\
+\
 
 ## Honors, Awards, and Scholarships
 * * *
@@ -81,7 +81,7 @@ During the military service, I found out that I have to take other courses requi
 *   Presidential Science Scholarship, 2016 – Present
 *   Youth Scholarship, Woongjin Foundation, 2013 – 2015. 
 
-\\
+\
 
 ## Research
 * * *
@@ -163,7 +163,7 @@ The collection of homework includes
 
 [Statistical Computing Report(Kor)](./jt.pdf)
 
-\\
+\
 
 ## Extracurricular Activities
 * * *
