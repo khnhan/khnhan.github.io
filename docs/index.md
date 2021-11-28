@@ -5,7 +5,7 @@ layout: default
 * * *
 I am an undergraduate of Seoul National University majoring in Mathematical Sciences from 2016.
 My double-major is **Statistics**, the subject I want to study as a researcher.
-My Korean name is 한기현 (This might help you find my name on the awards list).
+My Korean name is 한기현 (This might help you find my name on the awards list and the homework).
 
 I work as a part-time math instructor at P&K Math Academy, and I am the former student president of the Department of Mathematical Sciences.
 
@@ -69,14 +69,14 @@ During the military service, I found out that I have to take other courses requi
 ## Honors, Awards, and Scholarships
 * * *
 ### Honors
-*   5 semesters Dean’s List in College of Natural Sciences, 2016-1,2, 2018-1,2, 2021-1
+*   5 semesters **Dean’s List** in College of Natural Sciences, 2016-1,2, 2018-1,2, 2021-1
 
 ### Awards
-*   Silver Award (3rd place) at Korea University Students Industrial Engineering Project Competition, 2021. [Link](http://kiie.org/board/board.asp?b_code=5536&Action=content&GotoPage=1&B_CATE=BBS1)
-*   Gold Award in University Students Contest of Mathematics (for math major), 2018.
+*   **Silver Award (3rd place)** in Korea University Students Industrial Engineering Project Competition, 2021. [Link](http://kiie.org/board/board.asp?b_code=5536&Action=content&GotoPage=1&B_CATE=BBS1)
+*   **Gold Award** in University Students Contest of Mathematics (for math major), 2018.
 *   Bronze Award in University Students Contest of Mathematics (for math major), 2016.
 *   Bronze Award (4th place) in Asian Pacific Mathematical Olympiad in 2013.
-*   2 times Gold Award in Korean Mathematical Olympiad (for high school students), 2012, 2013.
+*   **2 times Gold Award** in Korean Mathematical Olympiad (for high school students), 2012, 2013.
 
 ### Scholarships
 *   Presidential Science Scholarship, 2016 – Present
