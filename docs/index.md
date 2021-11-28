@@ -117,8 +117,7 @@ The file contains hand-written homeworks submitted for the "Real analysis" cours
 The homeworks include
 *   proving properties of Hahn decomposition and **Jordan decomposition** of measures;
 *   proving **separability of Lp spaces** and non-separablity of L_infty space
-*   showing examples of measure construction by **Caratheodory extension theorem**
-.
+*   showing examples of measure construction by **Caratheodory extension theorem**.
 
 [Real Analysis Homeworks(Eng)](./real_analysis.pdf)
 
