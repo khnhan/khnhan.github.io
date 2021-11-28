@@ -24,6 +24,7 @@ Also, I was an interviewer in a mock interview for high school students' univers
 ## Student President of the Department of the Mathematical Sciences
 I was elected as the student president of the department and worked for a year (Oct 2017 - Oct 2018).
 Due to many duties in December 2017, I got low grades in the Fall semester, but I feel proud of what I have achieved.
+
 My promises were as follows, and fortunately, all of them came real.
 
 | Promises                      | Result                        |

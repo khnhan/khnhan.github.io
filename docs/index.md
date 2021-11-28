@@ -81,7 +81,7 @@ During the military service, I found out that I have to take other courses in Sp
 
 ### 2021-2 (Fall 2021)
 #### "Data Mining and Lab." (2021-2) by Prof. Taesung Park
-**Report:** We developed models **predicting the side-effect of COVID-19 vaccine** on potential occurrence of life-threatening illnesses. We used logistic regression, linear discriminant analysis, and KNN methods to obtain the models. The research is still in progress, so only the interim report can be offered.
+**Report:** We developed models **predicting the side-effects of the COVID-19 vaccines** on the potential occurrence of life-threatening illnesses. We used logistic regression, linear discriminant analysis, and KNN methods to obtain the models. The research is still in progress, so only the interim report can be offered.
 
 [Data Mining Interim report(Eng)](./DataMining/interim_report.pdf)
 
@@ -129,7 +129,7 @@ The collection of homework includes
 [Statistical Computing Report(Kor)](./jt.pdf)
 
 ## Extracurricular Activities
-I worked as the **student president** of the Department of Mathematical Sciences representing about 200 undergraduates. Also, I participated in many **volunteering** activities.
+I worked as the **student president** of the Department of Mathematical Sciences, representing about 200 undergraduates. Also, I participated in many **volunteering** activities.
 For more detailed explanations and **pictures** (including Mr. FAN), please click here.
 [Click](./gb.html)
 
