@@ -5,7 +5,12 @@ layout: default
 I am an undergraduate of Seoul National University majoring in Mathematical Sciences from 2016.
 My double-major is Statistics, the subject I want to study as a researcher.
 
-I work as a part-time instructor at P&K Math Academy, and I am the former student president of the Department of Mathematical Sciences.
+I work as a part-time math instructor at P&K Math Academy, and I am the former student president of the Department of Mathematical Sciences.
+
+[Education](##Education) / 
+[Research](##Research) / 
+[Courses](##Selected%20Assignments%20and%20Reports) / 
+[Extracurricular](##Extracurricular%20Activities) 
 
 ## Education
 **Seoul National University**
@@ -20,10 +25,10 @@ Bachelor of Science in Mathematical Sciences and Statistics
 
 I served in the Republic of Korea Army (Apr 2019 - Nov 2020). I took many online courses and read various books and materials.
 
-During the military service, I found out that I have to take other courses in Spring 2021 required for graduation. (Earth Science Lab, etc.) So, I tried to build an academic background in statistics.
+During the military service, I found out that I have to take other courses required for graduation in Spring 2021. (Earth Science Lab, etc.) So, I tried to build an academic background and studied some graduate-level books in statistics.
 
 **Previewed**
-*   Finished Ch1 - Ch5. Markov chain of “Probability: Theory and Examples” - _by R. Durrett_
+*   Finished Ch1 - Ch5. (Markov Chains) of “Probability: Theory and Examples” - _by R. Durrett_
 *   “Mathematical Statistics: Basic Ideas and Selected Topics” _by P.J. Bickel and K.A. Doksum_
 *   Real analysis of “Real and Complex Analysis” _by W. Rudin_
 *   Seoul National University “Time series analysis” lecture notes _by S. Cho_
@@ -77,7 +82,7 @@ During the military service, I found out that I have to take other courses in Sp
 [Full_report(Eng)](./Research/EVT(Eng).pdf)
 
 ## Selected Assignments and Reports
-*Note: For the collection of **homework**, later chapter comes first, so you may find **advanced contents at the upper part**.
+_Note: For the collection of **homework**, later chapter comes first, so you may find **advanced contents at the upper part**._
 
 ### 2021-2 (Fall 2021)
 #### "Data Mining and Lab." (2021-2) by Prof. Taesung Park
