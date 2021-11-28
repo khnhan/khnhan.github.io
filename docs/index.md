@@ -23,20 +23,20 @@ Bachelor of Science in Mathematical Sciences and Statistics
 
 ### Academic Gap (2019 - 2020)
 
-I served in the Republic of Korea Army (Apr 2019 - Nov 2020). I took many online courses and read various books and materials.
+I served in the Republic of Korea Army (Apr 2019 - Nov 2020).
 
 During the military service, I found out that I have to take other courses required for graduation in Spring 2021. (Earth Science Lab, etc.) So, I tried to build an academic background and studied some graduate-level books in statistics.
 
 **Previewed**
-*   Finished Ch1 - Ch5. (Markov Chains) of “Probability: Theory and Examples” - _by R. Durrett_
-*   “Mathematical Statistics: Basic Ideas and Selected Topics” _by P.J. Bickel and K.A. Doksum_
-*   Real analysis of “Real and Complex Analysis” _by W. Rudin_
-*   Seoul National University “Time series analysis” lecture notes _by S. Cho_
-*   “Introduction to Linear Regression Analysis” _by D. Montgomery, E. A. Peck, and G. Vining_
+*   Finished Ch1 - Ch5. (Markov Chains) of **“Probability: Theory and Examples”** - _by R. Durrett_
+*   **“Mathematical Statistics: Basic Ideas and Selected Topics”** _by P.J. Bickel and K.A. Doksum_
+*   Real analysis of **“Real and Complex Analysis”** _by W. Rudin_
+*   Seoul National University **“Time series analysis”** lecture notes _by S. Cho_
+*   **“Introduction to Linear Regression Analysis”** _by D. Montgomery, E. A. Peck, and G. Vining_
 
 **Reviewed**
-*   “Mathematical Statistics” _by W. Kim_
-*   “Principles of Mathematical Analysis” _by W. Rudin_
+*   **“Mathematical Statistics”** _by W. Kim_
+*   **“Principles of Mathematical Analysis”** _by W. Rudin_
 
 ### Coursera courses
 1. __“Deep Learning”__ Specialization (In progress, 4/5)	_offered by “Deeplearning.ai”_ [Certificate](./Coursera_Neural.pdf) / 
