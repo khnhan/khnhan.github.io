@@ -15,8 +15,8 @@ The homepage is consisted of
 *   Selected Assignments and Reports
 *   Extracurricular Activities
 
-\
 
+* * *
 ## Education
 * * *
 **Seoul National University**
@@ -63,8 +63,8 @@ During the military service, I found out that I have to take other courses requi
 *   Learned how to write professional emails in English
 *   Practiced pronunciation and intonation in speaking English
 
-\
 
+* * *
 ## Honors, Awards, and Scholarships
 * * *
 ### Honors
@@ -81,8 +81,8 @@ During the military service, I found out that I have to take other courses requi
 *   Presidential Science Scholarship, 2016 – Present
 *   Youth Scholarship, Woongjin Foundation, 2013 – 2015. 
 
-\
 
+* * *
 ## Research
 * * *
 ### Research 1 (Delivery, Jun 2021 - Nov 2021) 
@@ -108,8 +108,8 @@ During the military service, I found out that I have to take other courses requi
 [Abstract](./4.md) / 
 [Full_report(Eng)](./Research/EVT(Eng).pdf)
 
-\\
 
+* * *
 ## Selected Assignments and Reports
 * * *
 _Note: For the collection of **homework**, later chapter comes first, so you may find **advanced contents at the upper part**._
@@ -163,8 +163,8 @@ The collection of homework includes
 
 [Statistical Computing Report(Kor)](./jt.pdf)
 
-\
 
+* * *
 ## Extracurricular Activities
 * * *
 I worked as the **student president** of the Department of Mathematical Sciences, representing about 200 undergraduates. Also, I participated in many **volunteering** activities.
