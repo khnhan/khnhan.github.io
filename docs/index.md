@@ -2,20 +2,23 @@
 layout: default
 ---
 # Welcome to my Homepage
+* * *
 I am an undergraduate of Seoul National University majoring in Mathematical Sciences from 2016.
 My double-major is **Statistics**, the subject I want to study as a researcher.
 
 I work as a part-time math instructor at P&K Math Academy, and I am the former student president of the Department of Mathematical Sciences.
 
 The homepage is consisted of
-*   Education 
+*   Education
+*   Honors, Awards, and Scholarships
 *   Research
 *   Selected Assignments and Reports
 *   Extracurricular Activities
 
-* * *
+\\
 
 ## Education
+* * *
 **Seoul National University**
 
 Bachelor of Science in Mathematical Sciences and Statistics
@@ -60,9 +63,28 @@ During the military service, I found out that I have to take other courses requi
 *   Learned how to write professional emails in English
 *   Practiced pronunciation and intonation in speaking English
 
+\\
+
+## Honors, Awards, and Scholarships
 * * *
+### Honors
+*   5 semesters Dean’s List in College of Natural Sciences, 2016-1,2, 2018-1,2, 2021-1
+
+### Awards
+*   Silver Award (3rd place) at Korea University Students Industrial Engineering Project Competition, 2021. [Click](http://kiie.org/board/board.asp?b_code=5536&Action=content&GotoPage=1&B_CATE=BBS1)
+*   Gold Award in University Students Contest of Mathematics (for math major), 2018.
+*   Bronze Award in University Students Contest of Mathematics (for math major), 2016.
+*   Bronze Award (4th place) in Asian Pacific Mathematical Olympiad in 2013.
+*   2 times Gold Award in Korean Mathematical Olympiad (for high school students), 2012, 2013.
+
+### Scholarships
+*   Presidential Science Scholarship, 2016 – Present
+*   Youth Scholarship, Woongjin Foundation, 2013 – 2015. 
+
+\\
 
 ## Research
+* * *
 ### Research 1 (Delivery, Jun 2021 - Nov 2021) 
 *   Title: “Dynamic Pickup and Delivery Problem: Dynamic Bundling, Postponement Heuristics, Spatial Clustering based Bundling, and Assignment Heuristics” _with H. Park_
 
@@ -86,10 +108,10 @@ During the military service, I found out that I have to take other courses requi
 [Abstract](./4.md) / 
 [Full_report(Eng)](./Research/EVT(Eng).pdf)
 
-
-* * *
+\\
 
 ## Selected Assignments and Reports
+* * *
 _Note: For the collection of **homework**, later chapter comes first, so you may find **advanced contents at the upper part**._
 
 ### 2021-2 (Fall 2021)
@@ -141,10 +163,11 @@ The collection of homework includes
 
 [Statistical Computing Report(Kor)](./jt.pdf)
 
-* * *
+\\
 
 ## Extracurricular Activities
+* * *
 I worked as the **student president** of the Department of Mathematical Sciences, representing about 200 undergraduates. Also, I participated in many **volunteering** activities.
 For more detailed explanations and **pictures** (including Mr. FAN), please click [here](./gb.html).
 
-![volunteer](volunteer.jpg)
+![volunteer](volunteer.jpg) 
