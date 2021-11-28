@@ -26,10 +26,12 @@ I was elected as the student president of the department and worked for a year (
 Due to many duties in December 2017, I got low grades in the Fall semester, but I feel proud of what I have achieved.
 My promises were as follows, and fortunately, all of them came real.
 
-> Improve convenience of Department library: Installed electric outlets and air purifiers in the library
-> Systemize department club activities: Developed the register form and added 2 clubs in 2018
-> Establish freshmen manual: Published the manual to freshmen including transportation and restaurants
-> Develop a file-sharing hub to prepare for department events: Made a Google Drive to easily upload/download files
+| Promises                      | Result                        |
+|:------------------------------|:------------------------------|
+| Improve convenience of Department library | Installed electric outlets and air purifiers in the library |
+| Systemize department club activities | Developed the register form and added 2 clubs in my term |
+| Establish freshmen manual | Published the manual to freshmen including transportation and restaurants |
+| Develop a file-sharing hub to prepare for department events | Made a Google Drive to easily upload/download files |
 
 I organized and emceed many department events. (In fact, this picture was taken in May 2017, which was earlier than when I was elected)
 
