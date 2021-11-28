@@ -3,14 +3,15 @@ layout: default
 ---
 # Welcome to my Homepage
 I am an undergraduate of Seoul National University majoring in Mathematical Sciences from 2016.
-My double-major is Statistics, the subject I want to study as a researcher.
+My double-major is **Statistics**, the subject I want to study as a researcher.
 
 I work as a part-time math instructor at P&K Math Academy, and I am the former student president of the Department of Mathematical Sciences.
 
-[Education](##Education) / 
-[Research](##Research) / 
-[Courses](##Selected%20Assignments%20and%20Reports) / 
-[Extracurricular](##Extracurricular%20Activities) 
+The homepage is consisted of
+*   Education 
+*   Research
+*   Selected Assignments and Reports
+*   Extracurricular Activities
 
 ## Education
 **Seoul National University**
@@ -57,6 +58,8 @@ During the military service, I found out that I have to take other courses requi
 *   Learned how to write professional emails in English
 *   Practiced pronunciation and intonation in speaking English
 
+
+
 ## Research
 ### Research 1 (Delivery, Jun 2021 - Nov 2021) 
 *   Title: “Dynamic Pickup and Delivery Problem: Dynamic Bundling, Postponement Heuristics, Spatial Clustering based Bundling, and Assignment Heuristics” _with H. Park_
@@ -80,6 +83,8 @@ During the military service, I found out that I have to take other courses requi
 
 [Abstract](./Research/4.md) / 
 [Full_report(Eng)](./Research/EVT(Eng).pdf)
+
+
 
 ## Selected Assignments and Reports
 _Note: For the collection of **homework**, later chapter comes first, so you may find **advanced contents at the upper part**._
@@ -132,6 +137,8 @@ The collection of homework includes
 **Report:** I explained rejection sampling methods and **developed a function** that performs **three rejection sampling methods** using the derivative of log-density function.
 
 [Statistical Computing Report(Kor)](./jt.pdf)
+
+
 
 ## Extracurricular Activities
 I worked as the **student president** of the Department of Mathematical Sciences, representing about 200 undergraduates. Also, I participated in many **volunteering** activities.
