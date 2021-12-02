@@ -36,7 +36,7 @@ I served in the Republic of Korea Army (Apr 2019 - Nov 2020).
 During the military service, I was aware that I have to take other courses required for graduation in Spring 2021. (Earth and Environmental Sciences Lab., etc.) Thus, I tried to build an academic background and studied some graduate-level books in statistics.
 
 **Previewed**
-*   Finished Ch1 - Ch5. (Markov Chains) of **“Probability: Theory and Examples”** _by R. Durrett_
+*   Finished Ch1 - Ch5 (Markov Chains) of **“Probability: Theory and Examples”** _by R. Durrett_
 *   **“Mathematical Statistics: Basic Ideas and Selected Topics”** _by P.J. Bickel and K.A. Doksum_
 *   Real analysis of **“Real and Complex Analysis”** _by W. Rudin_
 *   Seoul National University **“Time series analysis”** lecture notes _by S. Cho_
@@ -55,7 +55,7 @@ During the military service, I was aware that I have to take other courses requi
 2. __“Practical Time Series Analysis”__ course _offered by “The State University of New York”_
 [Certificate](./Coursera_PTSA.pdf) /
 [Link](https://www.coursera.org/learn/practical-time-series-analysis)
-*   Understood theories of traditional time series model (ARMA, ARIMA, SARIMA)
+*   Understood theories of traditional time series models (ARMA, ARIMA, SARIMA)
 *   Analyzed time series data in economics and environmental sciences with R
 
 3. __“Machine Learning”__ course (Audit) _offered by “Stanford University”_ [Link](https://www.coursera.org/learn/machine-learning)
@@ -70,7 +70,7 @@ During the military service, I was aware that I have to take other courses requi
 ## Honors, Awards, and Scholarships
 * * *
 ### Honors
-*   5 semesters **Dean’s List** in College of Natural Sciences, 2016-1,2, 2018-1,2, 2021-1
+*   5 semesters **Dean’s List** in College of Natural Sciences, 2016-1,2, 2018-1,2, 2021-1.
 
 ### Awards
 *   **Silver Award (3rd place)** in Korea University Students Industrial Engineering Project Competition, 2021. [Link](http://kiie.org/board/board.asp?b_code=5536&Action=content&GotoPage=1&B_CATE=BBS1)
@@ -80,7 +80,7 @@ During the military service, I was aware that I have to take other courses requi
 *   **2 times Gold Award** in Korean Mathematical Olympiad (for high school students), 2012, 2013.
 
 ### Scholarships
-*   Presidential Science Scholarship, 2016 – Present
+*   Presidential Science Scholarship, 2016 – Present.
 *   Youth Scholarship, Woongjin Foundation, 2013 – 2015. 
 
 
@@ -102,7 +102,7 @@ During the military service, I was aware that I have to take other courses requi
 *   Title: “Unit root tests for Panel Data and Application to World Temperature Data”
 
 [Abstract](./3.md) / 
-[Full_report(Kor)](./Research/Panel(Kor).pdf)
+[Full_report(Eng)](./Research/Panel(Eng).pdf)
 
 ### Research 4 (Extreme Value Theory, Sep 2018 - Feb 2019)
 *   Title: “Understanding Extreme Value Theory and Application to Fine Dust Level in South Korea”
