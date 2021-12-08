@@ -10,7 +10,7 @@ I live in Bucheon, South Korea. My Korean name is **한기현** (This might help
 
 I work as a part-time math instructor at P&K Math Academy (profile picture on the left), and I am a former student president of the Department of Mathematical Sciences.
 
-The homepage is consisted of
+The homepage consists of
 *   Education
 *   Honors, Awards, and Scholarships
 *   Research
@@ -36,7 +36,7 @@ I served in the Republic of Korea Army (Apr 2019 - Nov 2020).
 During the military service, I was aware that I have to take other courses required for graduation in Spring 2021. (Earth and Environmental Sciences Lab., etc.) Thus, I tried to build an academic background and studied some graduate-level books in statistics.
 
 **Previewed**
-*   Finished Ch1 - Ch5 (Markov Chains) of **“Probability: Theory and Examples”** _by R. Durrett_
+*   Ch1 - Ch5 (Markov Chains) of **“Probability: Theory and Examples”** _by R. Durrett_
 *   **“Mathematical Statistics: Basic Ideas and Selected Topics”** _by P.J. Bickel and K.A. Doksum_
 *   Real analysis of **“Real and Complex Analysis”** _by W. Rudin_
 *   Seoul National University **“Time series analysis”** lecture notes _by S. Cho_
