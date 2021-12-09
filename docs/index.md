@@ -35,14 +35,14 @@ I served in the Republic of Korea Army (Apr 2019 - Nov 2020).
 
 During the military service, I was aware that I have to take other courses required for graduation in Spring 2021. (Earth and Environmental Sciences Lab., etc.) Thus, I tried to build an academic background and studied some graduate-level books in statistics.
 
-**Previewed**
+#### Previewed
 *   Ch1 - Ch5 (Markov Chains) of **“Probability: Theory and Examples”** _by R. Durrett_
 *   **“Mathematical Statistics: Basic Ideas and Selected Topics”** _by P.J. Bickel and K.A. Doksum_
 *   Real analysis of **“Real and Complex Analysis”** _by W. Rudin_
 *   Seoul National University **“Time series analysis”** lecture notes _by S. Cho_
 *   **“Introduction to Linear Regression Analysis”** _by D. Montgomery, E. A. Peck, and G. Vining_
 
-**Reviewed**
+#### Reviewed
 *   **“Mathematical Statistics”** _by W. Kim_
 *   **“Principles of Mathematical Analysis”** _by W. Rudin_
 
@@ -77,7 +77,7 @@ During the military service, I was aware that I have to take other courses requi
 *   **Gold Award** in University Students Contest of Mathematics (for math major), 2018.
 *   Bronze Award in University Students Contest of Mathematics (for math major), 2016.
 *   Bronze Award (4th place) in Asian Pacific Mathematical Olympiad in 2013.
-*   **2 times Gold Award** in Korean Mathematical Olympiad (for high school students), 2012, 2013.
+*   **2 Gold Awards** in Korean Mathematical Olympiad (for high school students), 2012, 2013.
 
 ### Scholarships
 *   Presidential Science Scholarship, 2016 – Present.
@@ -138,7 +138,7 @@ Note that I include hand-written homework, which is tidy and written in English.
 *   computing influence function and proving the **robustness** of a statistic;
 *   finding the best predictor in a **mixed effect** model;
 *   obtaining a multidimensional **confidence region** in multiple linear regression;
-*   comparing models and **select parameters** using Adjusted R-squared, Mallow's Cp, and LOOCV.
+*   comparing models and **selecting parameters** using Adjusted R-squared, Mallow's Cp, and LOOCV.
 
 [Applied Statistics Homework(Eng)](./Apps.pdf)
 
