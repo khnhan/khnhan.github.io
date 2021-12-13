@@ -36,8 +36,9 @@ I served in the Republic of Korea Army (Apr 2019 - Nov 2020).
 During the military service, I was aware that I have to take other courses required for graduation in Spring 2021. (Earth and Environmental Sciences Lab., etc.) Thus, I tried to build an academic background and studied some graduate-level books in statistics.
 
 #### Previewed
-| Books and Materials | Corresponding Courses |
-|:----------|:------|
+
+| Books and Materials       | Corresponding Courses     |
+|:--------------------------|:------------------------- |
 | Ch1 - Ch5 (Markov Chains) of **“Probability: Theory and Examples”** _by R. Durrett_ | Probability Theory 1 _(Grad)_, Probability Theory 2 _(Grad)_ |
 | **“Mathematical Statistics: Basic Ideas and Selected Topics”** _by P.J. Bickel and K.A. Doksum_ | Theory of Statistics 1 _(Grad)_ |
 | Real analysis of **“Real and Complex Analysis”** _by W. Rudin_ | Real Analysis _(Grad)_ |
@@ -45,8 +46,9 @@ During the military service, I was aware that I have to take other courses requi
 | **“Introduction to Linear Regression Analysis”** _by D. Montgomery, E. A. Peck, and G. Vining_ | Regression Analysis and Lab. |
 
 #### Reviewed
+
 | Books and Materials | Corresponding Courses |
-|:----------|:--------|
+|:--------------------|:----------------------|
 | **“Mathematical Statistics”** _by W. Kim_ | Mathematical Statistics 1, Mathematical Statistics 2 |
 | **“Principles of Mathematical Analysis”** _by W. Rudin_ | Introduction to Mathematical Analysis 1, Introduction to Mathematical Analysis 2 |
 
