@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Welcome to my Homepage
+* * *
+# Welcome to my Homepage 
 * * *
 I am an undergraduate of Seoul National University majoring in Mathematical Sciences from 2016.
 My double-major is **Statistics**, the subject I want to study as a researcher.
