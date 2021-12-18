@@ -33,7 +33,7 @@ Bachelor of Science in Mathematical Sciences and Statistics
 
 I served in the Republic of Korea Army (Apr 2019 - Nov 2020).
 
-During the military service, I was aware that I have to take other courses required for graduation in Spring 2021. (Earth and Environmental Sciences Lab., etc.) Thus, I tried to build an academic background and studied some graduate-level books in statistics.
+During the military service, I was aware that I have to take other courses in Spring 2021 required for graduation, such as the “Earth and Environmental Sciences Lab.” course. Thus, I tried to gain background knowledge of graduate study and studied several statistics books and materials.
 
 #### Previewed
 
@@ -142,7 +142,7 @@ The collection of homework includes
 
 ### 2021-1 (Spring 2021)
 #### "Applied Statistics" (2021-1, Prof. Sungkyu Jung)
-Note that I include hand-written homework, which is tidy and written in English. The collection of homework includes
+Please note that it partly contains tidy hand-written contents. The collection of homework includes
 *   proving properties of Generalized Linear Models **(GLM)**;
 *   applying **EM algorithm** to the Poisson mixture model and to the missing covariates in simple linear regression model;
 *   computing influence function and proving the **robustness** of a statistic;
