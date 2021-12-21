@@ -3,6 +3,7 @@ layout: default
 ---
 # Welcome to my Homepage 
 * * *
+_Last Update: Dec 21 (final report of "Data Mining" course & tidy ver. of research 3)_
 
 I am an undergraduate of Seoul National University majoring in Mathematical Sciences from 2016.
 My double-major is **Statistics**, the subject I want to study as a researcher.
@@ -113,7 +114,8 @@ During the military service, I was aware that I have to take other courses in Sp
 *   Title: “Unit root tests for Panel Data and Application to World Temperature Data”
 
 [Abstract](./3.md) / 
-[Full_report(Eng)](./Research/Panel(Eng).pdf)
+[Full_report(Eng)](./Research/Panel(Eng).pdf) / 
+[Full_report(Eng_tidy)](./Research/Panel(Eng)(Revised).pdf) _(Updated on Dec 21)_
 
 ### Research 4 (Extreme Value Theory, Sep 2018 - Feb 2019)
 *   Title: “Understanding Extreme Value Theory and Application to Fine Dust Level in South Korea”
@@ -129,9 +131,9 @@ _Note: For the collection of **homework**, later chapter comes first, so you may
 
 ### 2021-2 (Fall 2021)
 #### "Data Mining and Lab." (2021-2, Prof. Taesung Park)
-**Report:** We developed models **predicting the side-effects of the COVID-19 vaccines** on the potential occurrence of life-threatening illnesses. We used logistic regression, linear discriminant analysis, and KNN methods to obtain the models. The research is still in progress, so only the interim report can be offered.
+**Report:** We developed models **predicting the side-effects of the COVID-19 vaccines**, espicially the potential occurrence of death or life-threatening illnesses. In order to get the best model, we used logistic regression, linear discriminant analysis, K-nearest neighbors, naïve Bayes classifier, random forest, gradient boosting, AdaBoost, and XGBoost. _(Updated on Dec 21)_
 
-[Data Mining Interim report(Eng)](./DataMining/interim_report.pdf)
+[Data Mining Final report(Eng)](./DataMining/final_report.pdf)
 
 The collection of homework includes 
 *   comparing accuracies of classifiers made by ridge regression, LASSO, PCR, PLS models with **cross-validation**;
