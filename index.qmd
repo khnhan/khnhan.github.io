@@ -1,6 +1,7 @@
 ---
 title: "Kihyun Han"
 subtitle: |
+  <strong><a href="mailto:khnhan@psu.edu">khnhan@psu.edu</a></strong><br>
   Department of Statistics<br>
   Pennsylvania State University<br>
   423 Thomas Building<br>
@@ -15,9 +16,6 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: envelope
-      text: E-mail
-      href: mailto:khnhan@psu.edu
     - icon: globe
       text: Penn State Profile
       href: https://science.psu.edu/stat/people/kqh5716
@@ -53,6 +51,13 @@ Garcia](https://tpgarcia.github.io/).
 
 - Ph.D. Statistics, Pennsylvania State University (expected 2027)
 - B.S. Mathematical Sciences and Statistics (double major), Seoul National University, 2022
+
+## Honors
+
+- Mu Sigma Rho, National Statistics Honorary Society, 2025
+- Harkness Statistics Enhancement Fund Award, Penn State Statistics (best first-year Ph.D. student), 2023
+- Gold Prize, University Students Contest of Mathematics, Korean Mathematical Society, 2018
+- Presidential Science Scholarship, Korea Student Aid Foundation, 2016–2022
 :::
 
 

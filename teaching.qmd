@@ -6,7 +6,7 @@ title-block-banner: false
 
 ## Instructor
 
-**STAT 414: Introduction to Probability Theory** &nbsp; — &nbsp; Summer 2025
+**STAT 414: Introduction to Probability Theory** &nbsp; — &nbsp; Summer 2025 \[[students evaluation](files/seeq1.pdf)\]
 
 
 ## Teaching Assistant

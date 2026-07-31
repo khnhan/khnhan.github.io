@@ -4,14 +4,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "STAT 414: Introduction to Probability Theory   —   Summer 2025"
+    "text": "STAT 414: Introduction to Probability Theory   —   Summer 2025 [students evaluation]"
   },
   {
     "objectID": "teaching.html#instructor",
     "href": "teaching.html#instructor",
     "title": "Teaching",
     "section": "",
-    "text": "STAT 414: Introduction to Probability Theory   —   Summer 2025"
+    "text": "STAT 414: Introduction to Probability Theory   —   Summer 2025 [students evaluation]"
   },
   {
     "objectID": "teaching.html#teaching-assistant",
@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Kihyun Han",
     "section": "",
-    "text": "E-mail\n  \n  \n    \n     Penn State Profile\n  \n  \n    \n     GitHub\n  \n\n  \n  \nKihyun Han is a Ph.D. candidate in Statistics at Pennsylvania State University, advised by Dr. Yanyuan Ma. He received his B.S. in Mathematical Sciences and Statistics (double major) from Seoul National University in 2022.\nHis research is primarily methodological, developing semiparametric and nonparametric methods for inference when a covariate is right-censored, as well as predictive inference and robustness under distribution shift. He is also interested in applications to biomedical studies and to the social sciences, including political science and economics. His current applied work centers on Huntington disease studies, in ongoing collaboration with Dr. Tanya P. Garcia.\n\n\n\nSemiparametric modeling\nNonparametric modeling\nSurvival analysis\nPredictive inference\nDistribution shift\n\n\n\n\n\nPh.D. Statistics, Pennsylvania State University (expected 2027)\nB.S. Mathematical Sciences and Statistics (double major), Seoul National University, 2022"
+    "text": "Penn State Profile\n  \n  \n    \n     GitHub\n  \n\n  \n  \nKihyun Han is a Ph.D. candidate in Statistics at Pennsylvania State University, advised by Dr. Yanyuan Ma. He received his B.S. in Mathematical Sciences and Statistics (double major) from Seoul National University in 2022.\nHis research is primarily methodological, developing semiparametric and nonparametric methods for inference when a covariate is right-censored, as well as predictive inference and robustness under distribution shift. He is also interested in applications to biomedical studies and to the social sciences, including political science and economics. His current applied work centers on Huntington disease studies, in ongoing collaboration with Dr. Tanya P. Garcia.\n\n\n\nSemiparametric modeling\nNonparametric modeling\nSurvival analysis\nPredictive inference\nDistribution shift\n\n\n\n\n\nPh.D. Statistics, Pennsylvania State University (expected 2027)\nB.S. Mathematical Sciences and Statistics (double major), Seoul National University, 2022\n\n\n\n\n\nMu Sigma Rho, National Statistics Honorary Society, 2025\nHarkness Statistics Enhancement Fund Award, Penn State Statistics (best first-year Ph.D. student), 2023\nGold Prize, University Students Contest of Mathematics, Korean Mathematical Society, 2018\nPresidential Science Scholarship, Korea Student Aid Foundation, 2016–2022"
   },
   {
     "objectID": "index.html#research-interests",
@@ -75,6 +75,13 @@
     "title": "Kihyun Han",
     "section": "",
     "text": "Ph.D. Statistics, Pennsylvania State University (expected 2027)\nB.S. Mathematical Sciences and Statistics (double major), Seoul National University, 2022"
+  },
+  {
+    "objectID": "index.html#honors",
+    "href": "index.html#honors",
+    "title": "Kihyun Han",
+    "section": "",
+    "text": "Mu Sigma Rho, National Statistics Honorary Society, 2025\nHarkness Statistics Enhancement Fund Award, Penn State Statistics (best first-year Ph.D. student), 2023\nGold Prize, University Students Contest of Mathematics, Korean Mathematical Society, 2018\nPresidential Science Scholarship, Korea Student Aid Foundation, 2016–2022"
   },
   {
     "objectID": "posts.html",
