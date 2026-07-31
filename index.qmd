@@ -30,18 +30,21 @@ about:
 
 :::{#hero-heading}
 Kihyun Han is a Ph.D. candidate in Statistics at Pennsylvania State University, advised by
-[Yanyuan Ma](https://sites.psu.edu/yanyuanma/). He received his
+Dr. [Yanyuan Ma](https://sites.psu.edu/yanyuanma/). He received his
 B.S. in Mathematical Sciences and Statistics (double major) from Seoul National University
 in 2022.
 
-His research develops semiparametric and nonparametric methods for inference
-when a covariate is right-censored, with applications to
-Huntington disease studies. He also works on robust inference and predictive inference under
-distribution shift.
+His research is primarily methodological, developing semiparametric and
+nonparametric methods for inference when a covariate is right-censored, as well
+as predictive inference and robustness under distribution shift. He is also interested in applications to biomedical studies and to the social
+sciences, including political science and economics. His current applied work
+centers on Huntington disease studies, in ongoing collaboration with Dr. [Tanya P.
+Garcia](https://tpgarcia.github.io/).
 
 ## Research Interests
 
-- Semiparametric and nonparametric modeling
+- Semiparametric modeling
+- Nonparametric modeling
 - Survival analysis
 - Predictive inference
 - Distribution shift
