@@ -9,7 +9,10 @@ css: custom.css
 {{< include /files/includes/_academic.qmd >}}
 
 
-## Preprints
+*\* denotes equal contribution.*
+
+
+## Preprints 
 
 **Han, K.**, Ma, Y., Marder, K., & Garcia, T. (2026). SPYCE: A Doubly Robust
 Estimator for Trials Targeting Early Huntington Disease under Outcome-Dependent
@@ -19,15 +22,16 @@ Censoring. \[[arXiv](https://arxiv.org/abs/2607.18501)\]
 with Efficient Interval Length under a Right-Censored Covariate.
 \[[arXiv](https://arxiv.org/abs/2607.26982)\]
 
-## Working Papers
+Li, M.\*, **Han, K.**\*, & Ma, Y. From Matrix Inversion to Constraints: Provably Tighter Confidence Regions for Importance Weights in Label Shift.
+\[[arXiv](https://arxiv.org/abs/2609.14802)\]
 
-Li, M., **Han, K.**, & Ma, Y. Uncertainty Quantification for Importance Weights
-under Label Shift.
+## Working Papers 
+
 
 **Han, K.**, Ma, Y., Marder, K., & Garcia, T. Nonparametric
 Monotonicity-Preserving Quantile Regression under a Right-Censored Covariate.
 
-**Han, K.**, Li, M., & Ma, Y. Safe Conformal Prediction under Label Shift.
+**Han, K.**\*, Li, M.\*, & Ma, Y. Honest Conformal Prediction under Label Shift with Quantile Optimization.
 
 **Han, K.**, & McCartan, C. Prediction Sequence: Anytime-Valid Regression-Based
 Sequence of Prediction Intervals.
@@ -37,10 +41,11 @@ Sequence of Prediction Intervals.
 [**spyce**](https://github.com/khnhan/spyce) — Estimating a regression parameter
 in a right-censored covariate setting under outcome-dependent censoring.
 
-[**censcovpred**](https://github.com/khnhan/censcovpred) — Producing a prediction
+[**prescco**](https://github.com/khnhan/prescco) — Producing a prediction
 interval under a right-censored covariate.
 
 ## Presentations
+**Penn State SMAC Talk**, University Park, PA (September 2026). Prediction Sequence: Anytime-Valid Regression-Based Sequence of Prediction Intervals. *Department of Statistics, Penn State University.*
 
 **2026 Joint Statistical Meeting**, Boston, MA (August 2026). Semiparametric
 Prediction under Right-Censored Covariates. *Improving and Assessing Risk

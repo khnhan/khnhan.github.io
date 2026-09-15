@@ -95,27 +95,41 @@
     "href": "publications.html#preprints",
     "title": "Research",
     "section": "Preprints",
-    "text": "Preprints\nHan, K., Ma, Y., Marder, K., & Garcia, T. (2026). SPYCE: A Doubly Robust Estimator for Trials Targeting Early Huntington Disease under Outcome-Dependent Censoring. [arXiv]\nHan, K., Ma, Y., Marder, K., & Garcia, T. (2026). Semiparametric Prediction with Efficient Interval Length under a Right-Censored Covariate. [arXiv]"
+    "text": "Preprints\nHan, K., Ma, Y., Marder, K., & Garcia, T. (2026). SPYCE: A Doubly Robust Estimator for Trials Targeting Early Huntington Disease under Outcome-Dependent Censoring. [arXiv]\nHan, K., Ma, Y., Marder, K., & Garcia, T. (2026). Semiparametric Prediction with Efficient Interval Length under a Right-Censored Covariate. [arXiv]\nLi, M.*, Han, K.*, & Ma, Y. From Matrix Inversion to Constraints: Provably Tighter Confidence Regions for Importance Weights in Label Shift. [arXiv]"
   },
   {
     "objectID": "publications.html#working-papers",
     "href": "publications.html#working-papers",
     "title": "Research",
     "section": "Working Papers",
-    "text": "Working Papers\nLi, M., Han, K., & Ma, Y. Uncertainty Quantification for Importance Weights under Label Shift.\nHan, K., Ma, Y., Marder, K., & Garcia, T. Nonparametric Monotonicity-Preserving Quantile Regression under a Right-Censored Covariate.\nHan, K., Li, M., & Ma, Y. Safe Conformal Prediction under Label Shift.\nHan, K., & McCartan, C. Prediction Sequence: Anytime-Valid Regression-Based Sequence of Prediction Intervals."
+    "text": "Working Papers\nHan, K., Ma, Y., Marder, K., & Garcia, T. Nonparametric Monotonicity-Preserving Quantile Regression under a Right-Censored Covariate.\nHan, K.*, Li, M.*, & Ma, Y. Honest Conformal Prediction under Label Shift with Quantile Optimization.\nHan, K., & McCartan, C. Prediction Sequence: Anytime-Valid Regression-Based Sequence of Prediction Intervals."
   },
   {
     "objectID": "publications.html#software",
     "href": "publications.html#software",
     "title": "Research",
     "section": "Software",
-    "text": "Software\nspyce — Estimating a regression parameter in a right-censored covariate setting under outcome-dependent censoring.\ncenscovpred — Producing a prediction interval under a right-censored covariate."
+    "text": "Software\nspyce — Estimating a regression parameter in a right-censored covariate setting under outcome-dependent censoring.\nprescco — Producing a prediction interval under a right-censored covariate."
   },
   {
     "objectID": "publications.html#presentations",
     "href": "publications.html#presentations",
     "title": "Research",
     "section": "Presentations",
-    "text": "Presentations\n2026 Joint Statistical Meeting, Boston, MA (August 2026). Semiparametric Prediction under Right-Censored Covariates. Improving and Assessing Risk Prediction Models session.\n2025 Joint Statistical Meeting, Nashville, TN (August 2025). SPYCE: Semi-Parametric Y-dependent right-Censored Covariate Estimator. Semiparametric Modeling Advanced Research session."
+    "text": "Presentations\nPenn State SMAC Talk, University Park, PA (September 2026). Prediction Sequence: Anytime-Valid Regression-Based Sequence of Prediction Intervals. Department of Statistics, Penn State University.\n2026 Joint Statistical Meeting, Boston, MA (August 2026). Semiparametric Prediction under Right-Censored Covariates. Improving and Assessing Risk Prediction Models session.\n2025 Joint Statistical Meeting, Nashville, TN (August 2025). SPYCE: Semi-Parametric Y-dependent right-Censored Covariate Estimator. Semiparametric Modeling Advanced Research session."
+  },
+  {
+    "objectID": "publications.html#working-papers-denotes-equal-contribution",
+    "href": "publications.html#working-papers-denotes-equal-contribution",
+    "title": "Research",
+    "section": "Working Papers (* denotes equal contribution)",
+    "text": "Working Papers (* denotes equal contribution)\nHan, K., Ma, Y., Marder, K., & Garcia, T. Nonparametric Monotonicity-Preserving Quantile Regression under a Right-Censored Covariate.\nHan, K.*, Li, M.*, & Ma, Y. Safe Honest Conformal Prediction under Label Shift with Quantile Optimization.\nHan, K., & McCartan, C. Prediction Sequence: Anytime-Valid Regression-Based Sequence of Prediction Intervals."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Research",
+    "section": "",
+    "text": "* denotes equal contribution."
   }
 ]
