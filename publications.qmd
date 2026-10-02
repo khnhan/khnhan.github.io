@@ -12,7 +12,14 @@ css: custom.css
 *\* denotes equal contribution.*
 
 
-## Preprints 
+
+## Accepted Publications 
+
+Li, M.\*, **Han, K.**\*, & Ma, Y. From Matrix Inversion to Constraints: Provably Tighter Confidence Regions for Importance Weights in Label Shift.
+\[[arXiv](https://arxiv.org/abs/2609.14802)\]
+*Accepted at Neural Information Processing Systems (NeurIPS) 2026.*
+
+## Under Review
 
 **Han, K.**, Ma, Y., Marder, K., & Garcia, T. (2026). SPYCE: A Doubly Robust
 Estimator for Trials Targeting Early Huntington Disease under Outcome-Dependent
@@ -22,8 +29,10 @@ Censoring. \[[arXiv](https://arxiv.org/abs/2607.18501)\]
 with Efficient Interval Length under a Right-Censored Covariate.
 \[[arXiv](https://arxiv.org/abs/2607.26982)\]
 
-Li, M.\*, **Han, K.**\*, & Ma, Y. From Matrix Inversion to Constraints: Provably Tighter Confidence Regions for Importance Weights in Label Shift.
-\[[arXiv](https://arxiv.org/abs/2609.14802)\]
+
+
+
+
 
 ## Working Papers 
 
@@ -31,7 +40,7 @@ Li, M.\*, **Han, K.**\*, & Ma, Y. From Matrix Inversion to Constraints: Provably
 **Han, K.**, Ma, Y., Marder, K., & Garcia, T. Nonparametric
 Monotonicity-Preserving Quantile Regression under a Right-Censored Covariate.
 
-**Han, K.**\*, Li, M.\*, & Ma, Y. Honest Conformal Prediction under Label Shift with Quantile Optimization.
+**Han, K.**\*, Li, M.\*, & Ma, Y.   Quantile Optimization for Honest Conformal Prediction under Label Shift.
 
 **Han, K.**, & McCartan, C. Prediction Sequence: Anytime-Valid Regression-Based
 Sequence of Prediction Intervals.
