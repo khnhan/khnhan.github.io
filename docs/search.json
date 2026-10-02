@@ -60,14 +60,14 @@
     "href": "index.html",
     "title": "Kihyun Han",
     "section": "",
-    "text": "Penn State Profile\n  \n  \n    \n     GitHub\n  \n\n  \n  \nKihyun Han is a Ph.D. candidate in Statistics at Pennsylvania State University, advised by Dr. Yanyuan Ma. He received his B.S. in Mathematical Sciences and Statistics (double major) from Seoul National University in 2022.\nHis research is primarily methodological, developing semiparametric and nonparametric methods for inference when a covariate is right-censored, as well as predictive inference and robustness under distribution shift. He is also interested in applications to biomedical studies and to the social sciences, including political science and economics. His current applied work centers on Huntington disease studies, in ongoing collaboration with Dr. Tanya P. Garcia.\n\n\n\nSemiparametric modeling\nNonparametric modeling\nSurvival analysis\nPredictive inference\nDistribution shift\n\n\n\n\n\nPh.D. Statistics, Pennsylvania State University (expected 2027)\nB.S. Mathematical Sciences and Statistics (double major), Seoul National University, 2022\n\n\n\n\n\nMu Sigma Rho, National Statistics Honorary Society, 2025\nHarkness Statistics Enhancement Fund Award, Penn State Statistics (best first-year Ph.D. student), 2023\nGold Prize, University Students Contest of Mathematics, Korean Mathematical Society, 2018\nPresidential Science Scholarship, Korea Student Aid Foundation, 2016–2022"
+    "text": "Penn State Profile\n  \n  \n    \n     GitHub\n  \n\n  \n  \nKihyun Han is a Ph.D. candidate in Statistics at Pennsylvania State University, advised by Dr. Yanyuan Ma. He received his B.S. in Mathematical Sciences and Statistics (double major) from Seoul National University in 2022.\nHis research is primarily methodological, developing semiparametric and nonparametric methods for inference when a covariate is right-censored, as well as predictive inference and robustness under distribution shift. He is also interested in applications to biomedical studies and to the social sciences, including political science and economics. His current applied work centers on Huntington disease studies, in ongoing collaboration with Dr. Tanya P. Garcia.\n\n\n\nSemiparametric modeling\nNonparametric modeling\nSurvival analysis\nRobust inference\nPredictive inference\nDistribution shift\n\n\n\n\n\nPh.D. Statistics, Pennsylvania State University (expected 2027)\nB.S. Mathematical Sciences and Statistics (double major), Seoul National University, 2022\n\n\n\n\n\nMu Sigma Rho, National Statistics Honorary Society, 2025\nHarkness Statistics Enhancement Fund Award, Penn State Statistics (best first-year Ph.D. student), 2023\nGold Prize, University Students Contest of Mathematics, Korean Mathematical Society, 2018\nPresidential Science Scholarship, Korea Student Aid Foundation, 2016–2022"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Kihyun Han",
     "section": "",
-    "text": "Semiparametric modeling\nNonparametric modeling\nSurvival analysis\nPredictive inference\nDistribution shift"
+    "text": "Semiparametric modeling\nNonparametric modeling\nSurvival analysis\nRobust inference\nPredictive inference\nDistribution shift"
   },
   {
     "objectID": "index.html#education",
@@ -102,7 +102,7 @@
     "href": "publications.html#working-papers",
     "title": "Research",
     "section": "Working Papers",
-    "text": "Working Papers\nHan, K., Ma, Y., Marder, K., & Garcia, T. Nonparametric Monotonicity-Preserving Quantile Regression under a Right-Censored Covariate.\nHan, K.*, Li, M.*, & Ma, Y. Honest Conformal Prediction under Label Shift with Quantile Optimization.\nHan, K., & McCartan, C. Prediction Sequence: Anytime-Valid Regression-Based Sequence of Prediction Intervals."
+    "text": "Working Papers\nHan, K., Ma, Y., Marder, K., & Garcia, T. Nonparametric Monotonicity-Preserving Quantile Regression under a Right-Censored Covariate.\nHan, K.*, Li, M.*, & Ma, Y. Quantile Optimization for Honest Conformal Prediction under Label Shift.\nHan, K., & McCartan, C. Prediction Sequence: Anytime-Valid Regression-Based Sequence of Prediction Intervals."
   },
   {
     "objectID": "publications.html#software",
@@ -131,5 +131,19 @@
     "title": "Research",
     "section": "",
     "text": "* denotes equal contribution."
+  },
+  {
+    "objectID": "publications.html#accepted-publications",
+    "href": "publications.html#accepted-publications",
+    "title": "Research",
+    "section": "Accepted Publications",
+    "text": "Accepted Publications\nLi, M.*, Han, K.*, & Ma, Y. From Matrix Inversion to Constraints: Provably Tighter Confidence Regions for Importance Weights in Label Shift. [arXiv] Accepted at Neural Information Processing Systems (NeurIPS) 2026."
+  },
+  {
+    "objectID": "publications.html#under-review",
+    "href": "publications.html#under-review",
+    "title": "Research",
+    "section": "Under Review",
+    "text": "Under Review\nHan, K., Ma, Y., Marder, K., & Garcia, T. (2026). SPYCE: A Doubly Robust Estimator for Trials Targeting Early Huntington Disease under Outcome-Dependent Censoring. [arXiv]\nHan, K., Ma, Y., Marder, K., & Garcia, T. (2026). Semiparametric Prediction with Efficient Interval Length under a Right-Censored Covariate. [arXiv]"
   }
 ]
