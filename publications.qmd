@@ -16,8 +16,8 @@ css: custom.css
 ## Accepted Publications 
 
 Li, M.\*, **Han, K.**\*, & Ma, Y. From Matrix Inversion to Constraints: Provably Tighter Confidence Regions for Importance Weights in Label Shift.
+*Accepted at Neural Information Processing Systems (NeurIPS) 2026.* 
 \[[arXiv](https://arxiv.org/abs/2609.14802)\]
-*Accepted at Neural Information Processing Systems (NeurIPS) 2026.*
 
 ## Under Review
 
